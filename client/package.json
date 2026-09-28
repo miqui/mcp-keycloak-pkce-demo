@@ -1,0 +1,12 @@
+{
+  "name": "mcp-pkce-client",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "jose": "^5.9.6"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "@types/node": "^22.10.2"
+  }
+}
